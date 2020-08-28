@@ -27,7 +27,7 @@ namespace WindowsFormsApp2
             Controls.Add(gridControl1);
             gridControl1.Dock = DockStyle.Fill;
 
-            //Create a data source1222222222222223333333334455dd
+            //Create a data source
             BindingList<Customer> list = new BindingList<Customer>();
             list.Add(new Customer("Andrew", "Weber"));
             list.Add(new Customer("", "Kovar")); // An invalid first name
