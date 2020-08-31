@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WindowsFormsApp2
 {
     class Class1
-    {
+    { 
         //xxx22223
         //3108
     }
