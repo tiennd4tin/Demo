@@ -9,5 +9,6 @@ namespace WindowsFormsApp2
     class Class2
     {
         //buca1
+        //cha
     }
 }
